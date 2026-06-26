@@ -1,10 +1,3 @@
-# AutoOmen-Meteor-Module
-This is a Meteor addon for automatically drinking ominous bottles for raid farms. Huge thanks to olestar, wrenne, em0rave and crisissheep for providing the original code which can be found here: https://github.com/pawbase2b2t/pawhax. All I have truly done is add the one module.
-
-# Pawhax
-
-The following is the README.md from pawhax so that should anyone use this addon they can know how to use the modules, and what they are:
-
 furry Meteor Client addon.
 
 Made by olstar, wrenne, em0rave, CrisisSheep.
@@ -78,5 +71,4 @@ Automatically fires a rocket when you drop below the pitch-40 lower bound.
  
 ### TailTrail
  
-Adds a particle trail to your character. Configurable particle type (all vanilla particles supported), spawn rate, position offsets, and velocity.
 Adds a particle trail to your character. Configurable particle type (all vanilla particles supported), spawn rate, position offsets, and velocity.
