@@ -1,9 +1,18 @@
+This is an edit I have done to the original file, simply adding an AutoOmen module. All thanks goes to them for making this simple but helpful module far easier to make. Special thanks especially to CrisisSheep for helping me with other things when setting up, for example a zenith proxy.
+
+Module is mainly made for raid farms but could have other uses I am unaware of.
+
+
 furry Meteor Client addon.
 
 Made by olstar, wrenne, em0rave, CrisisSheep.
 
 
 ## Modules
+
+### AutoOmen
+
+Automatically drinks a bad omen potion when you have run out of the effect. Switches back to sword once drunk.
  
 ### AntiAntiAFK
  
